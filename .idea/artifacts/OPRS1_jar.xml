@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OPRS1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OPRS1_jar</output-path>
+    <root id="archive" name="OPRS1.jar">
+      <element id="module-output" name="OPRS1" />
+    </root>
+  </artifact>
+</component>
